@@ -1,5 +1,5 @@
-title: ""
-author: ""
+title: "Deep dive into the void"
+author: "Marc Montpas"
 description: ""
 
 # Jekyll settings
@@ -15,7 +15,7 @@ date_format: "%B %d, %Y"     # see http://shopify.github.io/liquid/filters/date/
 
 # Theme settings
 style: default               # choose between "default", "contrast" and "minimal"
-dark_theme: false            # enables dark mode
+dark_theme: true             # enables dark mode
 
 navigation:                  # (optional) site navigation in the header
   - index.html
@@ -23,8 +23,8 @@ navigation:                  # (optional) site navigation in the header
   - about.md
 
 icons:                       # (optional) icons in the header, see http://fontawesome.com/icons
-  envelope: "mailto:"
-  github: "https://github.com"
+  twitter: "https://twitter.com/marcS0H"
+  linkedin: "https://www.linkedin.com/in/marcs0h"
   rss: "/feed.xml"
 
 comments:                    # embed disqus or isso comments
