@@ -5,10 +5,10 @@ title: "About Me"
 
 Hey! I am Marc-Alexandre Montpas, welcome to my place. :)
 
-I currently work as a Vulnerability Researcher, leading the Vulnerability Research Team at Sucuri (a GoDaddy company). My interests are diverse, going from Web Application Security and Reverse Engineering all the way to OS Design and Implementation. You'll generally find me hacking stuffs at Security CTFs (Capture The Flag) or disclosing vulnerabilities in popular products for fun.
+My interests are diverse, going from Web Application Security and Reverse Engineering all the way to OS Design and Implementation. You'll generally find me hacking stuffs at Security CTFs (Capture The Flag) or disclosing vulnerabilities in popular products for fun.
 
 ## Social?
-You can reach me on Twitter [@marcS0H](https://twitter.com/marcs0h). You can also find me blogging here or on [Sucuri's awesome blog](https://blog.sucuri.net/author/marc).
+You can reach me on Twitter [@marcS0H](https://twitter.com/marcs0h). You can also find some of my old blog posts on [Sucuri's awesome blog](https://blog.sucuri.net/author/marc).
 
 ## Disclaimer
 Just the usual stuff, the ideas and opinions presented here are my own and does not represent those of people, institutions and organizations that I may be associated with (unless explicitly stated).
